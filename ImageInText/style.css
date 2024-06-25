@@ -1,0 +1,7 @@
+.text-img {
+  font-size: 200px;
+  background-image: url("indiaflag.webp");
+  background-size: contain;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
